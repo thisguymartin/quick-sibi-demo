@@ -250,9 +250,8 @@ exports.handler = async function http(req) {
       <br>
       <p>
           
-       The year is 2021 Sibi is growing fast mid the covid crisis a group of rebels called the freya team and has committed to a restructure of the SIBI internal infrastructure. Will they succeed to get everything fully operational. 
-            
-    
+       The year is 2021 Sibi is growing fast mid the covid crisis a group of rebels called the freya team and has committed to a restructure of the Sibi internal infrastructure. Will they succeed to get everything fully operational on time ...
+           
     </p>        
     </div>  
     </div>
